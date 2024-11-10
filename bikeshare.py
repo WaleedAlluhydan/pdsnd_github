@@ -189,3 +189,4 @@ if __name__ == "__main__":
     main()
 
     print('thank you')
+    print('bye')
